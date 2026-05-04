@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "wenyan-mcp": {
+      "name": "公众号远程助手",
+      "transport": "sse",
+      "url": "http://60.205.222.107:8080/sse",
+      "headers": {
+        "X-API-Key": "mcp_sk_9fA7Kx2QvR8bL1nZ4TgH6yWp3DsE5UcJ"
+      }
+    }
+  }
+}
